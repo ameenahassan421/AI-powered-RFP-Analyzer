@@ -290,7 +290,7 @@ def main_dashboard():
     st.set_page_config(
         page_title="RFP Intelligence Pro",
         layout="wide",
-        page_icon="📊"
+        page_icon="ui/logo_Athari.png"
     )
 
     # Initialize session state
