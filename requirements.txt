@@ -2,9 +2,9 @@ streamlit==1.32.0
 pandas==2.2.1
 plotly==5.18.0
 groq==0.32.0
-PyPDF2==3.0.1
 python-docx==1.1.0
 numpy==1.26.4
 pydantic==2.6.4
 watchdog
-x-code
+PyPDF2==3.0.1
+python-dotenv
