@@ -1,6 +1,15 @@
+# Secrets
 .env
+.env.*.local
+
+# Python
 __pycache__/
 *.pyc
+
+# Editors / OS
 .vscode/
+.idea/
 .DS_Store
+
+# Virtual env
 .venv/
